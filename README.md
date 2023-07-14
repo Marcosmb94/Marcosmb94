@@ -5,9 +5,8 @@
 
 - 🌱 Atualmente estou aprendendo **Engenharia de Dados.**
 
-- 💬 Me pergunte sobre **Power BI, Excel, SQL, Visualização de Dados, Storytelling** -
-
-📫 Você me acha **marcosmb2012@hotmail. com**
+- 💬 Me pergunte sobre **Power BI, Excel, SQL, Visualização de Dados, Storytelling** 
+- 📫 Você me acha **marcosmb2012@hotmail. com**
 
 - 📄 Conheça minhas experiências [linkedin.com/in/marcos-paulo-moura-batista-a0b859118](linkedin.com/in/marcos-paulo-moura-batista-a0b859118)
 
